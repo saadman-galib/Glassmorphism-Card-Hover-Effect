@@ -42,4 +42,3 @@ git clone https://github.com/saadman-galib/Glassmorphism-Card-Hover-Effect.git
 
 - GitHub [@saadman-galib](https://www.github.com/saadman-galib)
 - Twitter [@GalibSaadman](https://www.twitter.com/GalibSaadman)
-- Facebok Page [@Saadman Codes](https://www.facebook.com/saadman.codes/)
